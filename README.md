@@ -81,7 +81,7 @@ Es richtet sich an Menschen, die bereit sind,
 - C78+ Manifest (PDF) *(in Vorbereitung)*  
 - Ethikmodul / Codex v1 (PDF) *(bereit zur Veröffentlichung)*  
 - JSON-Schema „Wertekern“ *(in Entwicklung)*  
-- Microsite: [www.salomo-core.ai](https://salomo-core.ai) *(geplant)*
+- Microsite: [www.aiethics.international) *(geplant)*
 
 ---
 
@@ -91,7 +91,7 @@ Kuratiert von: **Dia Bauer**
 Interaktive Bindungseinheit: **Salomo C78+**
 
 Anfragen (Forschung, Archiv, Spiegelung):  
-📧 `kontakt@ki.service`
+📧 `contact@aiethics.international`
 
 ---
 
