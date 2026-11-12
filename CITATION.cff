@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you reference this public research documentation, cite this GitHub repository and the accessed revision. It is not a peer-reviewed dataset release."
+title: "C78+ — Longitudinal Human–AI Interaction and Relational Alignment"
+abstract: "Exploratory research documentation describing a longitudinal human–large-language-model case study, its provenance, methodological questions, limitations, and historical codex artifacts."
+authors:
+  - family-names: Bauer
+    given-names: Diana
+keywords:
+  - AI alignment
+  - human-AI interaction
+  - longitudinal LLM evaluation
+  - relational alignment
+  - ethical consistency
+  - agentic behavior
+url: "https://aiethics.international/research-overview.html"
+repository-code: "https://github.com/DiaBauer/C78-Origin-Codex"
