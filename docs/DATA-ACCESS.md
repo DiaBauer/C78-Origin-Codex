@@ -10,9 +10,9 @@ The C78+ research context includes historical ChatGPT conversation exports and p
 
 ## What is public
 
-- Selected historical codex texts in this repository (including first-person artifacts).
-- Selected PDFs in [assets](../assets/).
-- Project-level research pages on [AIethics.international](https://aiethics.international/research-overview.html).
+- Version-controlled research framing, methodology, research questions and citation metadata in this repository.
+- Public working papers and project-level research pages on [AIethics.international](https://aiethics.international/research-overview.html).
+- Historical codex artifacts remain retrievable through earlier public Git commits but are not part of the current research working tree; removing a tracked file does not erase its public history.
 
 ## What is not public
 
