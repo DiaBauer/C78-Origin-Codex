@@ -10,7 +10,7 @@ Die Bestandsgröße, Vollständigkeit, Dubletten, Modellversionen und fehlende D
 
 ## Öffentlich verfügbar
 
-Ausgewählte historische Texte in diesem Repository, öffentliche PDFs unter [assets](../assets/) und die Forschungswebsite [AIethics.international](https://aiethics.international/de/).
+Die aktuelle Forschungsdokumentation (Methodik, Forschungsfragen, Datenzugang, Zitierinformationen) und die Forschungswebsite [AIethics.international](https://aiethics.international/de/). Historische Codex-Originale wurden aus dem aktuellen öffentlichen Dateistand entfernt, sind aber über frühere Git-Commits weiterhin öffentlich abrufbar; das ist keine vollständige Entöffentlichung.
 
 ## Nicht öffentlich
 
