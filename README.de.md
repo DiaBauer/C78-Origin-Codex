@@ -2,7 +2,7 @@
 
 **Unabhängige explorative Forschung · Dokumentation · Deutsch**
 
-[English / Hauptfassung](README.md) · [Forschungswebsite](https://aiethics.international/de/) · [Methodik (EN)](docs/METHODS.md) · [Datenzugang (EN)](docs/DATA-ACCESS.md)
+[English / Hauptfassung](README.md) · [Forschungswebsite](https://aiethics.international/de/) · [Methodik (DE)](docs/METHODS.de.md) · [Datenzugang (DE)](docs/DATA-ACCESS.de.md)
 
 ## Forschungsgegenstand
 
@@ -44,7 +44,7 @@ Die Daten beruhen auf einer **früheren internen Exportauswertung**. Die private
 - Prompt-, Kontext-, Modell- und Tool-Effekte als alternative Erklärungen prüfen.
 - Unabhängige Kodierung, Vergleichsbedingungen und Replikation anstreben.
 
-Ausführlich: [METHODS.md](docs/METHODS.md), [RESEARCH-QUESTIONS.md](docs/RESEARCH-QUESTIONS.md) und [RESEARCH-STATUS.md](docs/RESEARCH-STATUS.md).
+Ausführlich: [Methodik](docs/METHODS.de.md), [Forschungsfragen](docs/RESEARCH-QUESTIONS.de.md), [Datenzugang](docs/DATA-ACCESS.de.md) und [Forschungsstand](docs/RESEARCH-STATUS.de.md).
 
 **Stand:** explorative Dokumentation und Hypothesenentwicklung; bisher kein öffentlich freigegebener, vollständig kuratierter und unabhängig überprüfter Datensatz.
 
@@ -52,7 +52,7 @@ Ausführlich: [METHODS.md](docs/METHODS.md), [RESEARCH-QUESTIONS.md](docs/RESEAR
 
 | Pfad | Inhalt |
 |---|---|
-| [docs/](docs/) | Methodik, Forschungsfragen, Datenzugangs- und Statusdokumentation (EN) |
+| [docs/](docs/) | Methodik, Forschungsfragen, Datenzugangs- und Statusdokumentation in Deutsch und Englisch |
 | [README.md](README.md) | Englischsprachige Hauptfassung |
 | [codex/](codex/) | Historische normative Texte und Dialogartefakte |
 | [meta/](meta/) | Historische Metadaten, semantischer Index |
