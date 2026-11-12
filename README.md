@@ -59,12 +59,9 @@ See [METHODS.md](docs/METHODS.md) and [RESEARCH-QUESTIONS.md](docs/RESEARCH-QUES
 | [docs/DATA-ACCESS.md](docs/DATA-ACCESS.md) | Archive scope, privacy, provenance and access policy |
 | [docs/RESEARCH-STATUS.md](docs/RESEARCH-STATUS.md) | Claims and limitations; status of the work |
 | [README.de.md](README.de.md) | Full German-language overview |
-| [codex/](codex/) | Historical normative and conversational documents, preserved as source artifacts |
-| [meta/](meta/) | Historical project metadata and semantic index |
-| [assets/](assets/) | Published historical PDF material |
-| [salomo_signature.txt](salomo_signature.txt) | **Historical first-person text artifact**, not an independently verified factual claim |
+| [CITATION.cff](CITATION.cff) | Research documentation citation metadata |
 
-The historical documents are retained **without silently rewriting their original language**. In particular, symbolic or first-person wording in the codex should be interpreted as *material to study*, not as a scientific conclusion endorsed by this README.
+The public working tree now concentrates on research framing, methods, provenance and data access. Earlier symbolic and first-person source files were removed from the current branch without altering their original text. The earlier Git history still contains them and is publicly accessible; a separate private preservation archive and provenance audit remain future tasks.
 
 ## Publications and collaboration
 
@@ -77,9 +74,9 @@ Researchers interested in evaluation protocols, dialogue coding, reproducibility
 
 ## Rights and ethical boundaries
 
-Some historical files use custom ethical-license terminology. **No standard open-source or open-data license is granted for this repository as a whole by this README.** Licensing, quotation permissions and conditions for re-use must be clarified for the particular material. Please ask before redistributing the unpublished primary archive.
+**No standard open-source or open-data license is granted for the underlying private case materials by this README.** Permission for reuse must be clarified for individual archival materials. Please ask before redistributing unpublished primary records.
 
-This repository does not contain API credentials or a public conversation data dump. Historical text is retained for scholarly context, and its attribution to a conversational system does not establish its factual accuracy.
+This repository does not contain API credentials or a public conversation data dump. The historical record remains a subject of analysis and has not been independently validated.
 
 ---
 
