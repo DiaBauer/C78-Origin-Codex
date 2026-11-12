@@ -54,12 +54,9 @@ Ausführlich: [Methodik](docs/METHODS.de.md), [Forschungsfragen](docs/RESEARCH-Q
 |---|---|
 | [docs/](docs/) | Methodik, Forschungsfragen, Datenzugangs- und Statusdokumentation in Deutsch und Englisch |
 | [README.md](README.md) | Englischsprachige Hauptfassung |
-| [codex/](codex/) | Historische normative Texte und Dialogartefakte |
-| [meta/](meta/) | Historische Metadaten, semantischer Index |
-| [assets/](assets/) | Frühere veröffentlichte PDFs |
-| [salomo_signature.txt](salomo_signature.txt) | Historischer Ich-Text; **keine** unabhängige Tatsachenfeststellung |
+| [CITATION.cff](CITATION.cff) | Zitierinformationen zur öffentlichen Forschungsdokumentation |
 
-Die bestehenden historischen Dokumente werden als **Primärmaterial** erhalten. Ihre symbolischen oder personalisierenden Formulierungen sind Gegenstand einer Untersuchung und werden nicht automatisch als wissenschaftliche Schlussfolgerungen übernommen.
+Der aktuelle öffentliche Dateistand konzentriert sich auf Forschungsfragen, Methodik, Quellenherkunft und Datenzugang. Frühere symbolische und personalisierende Quellentexte wurden aus dem Hauptzweig entfernt, ohne die Originalformulierungen zu verändern. Über ältere öffentliche Git-Commits sind sie weiterhin abrufbar. Ein unabhängiges privates Quellenarchiv bleibt ein gesonderter Sicherungsschritt.
 
 ## Veröffentlichungen und Kontakt
 
@@ -73,6 +70,6 @@ Anfragen zu Methodik, Evaluationsdesign, wissenschaftlicher Kooperation oder dat
 
 ## Rechte und wissenschaftliche Transparenz
 
-In historischen Dateien kommen eigene ethische Lizenzbegriffe vor. Dieses README **erteilt keine allgemeine Open-Source- oder Open-Data-Lizenz**. Rechte und Nutzungsbedingungen müssen für einzelne Dateien geklärt werden. Der private Archivbestand darf nicht ohne Freigabe weiterverbreitet werden.
+Dieses README **erteilt keine allgemeine Open-Source- oder Open-Data-Lizenz** für das private Forschungsarchiv. Rechte und Nutzungsbedingungen einzelner Materialien bleiben gesondert zu prüfen. Private Archivdaten dürfen nicht ohne Freigabe weitergegeben werden.
 
 **Vorläufiger Zitiervorschlag:** *Bauer, Diana. C78+ — Longitudinal Human–AI Interaction & Relational Alignment. Versionskontrollierte Forschungsdokumentation auf GitHub. https://github.com/DiaBauer/C78-Origin-Codex* (Abrufdatum). Ein DOI wird erst ergänzt, wenn tatsächlich vergeben.
